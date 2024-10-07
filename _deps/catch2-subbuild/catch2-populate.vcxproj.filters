@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\cf6d4a74526780f75125815a167e292f\catch2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\604ba780876c7c3d064e8cd608d17f3c\catch2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\1a7bffb83815367604f67f0a8364d734\catch2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="H:\laba po cpp\_deps\catch2-subbuild\CMakeFiles\catch2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53582D0A-8B6A-3614-95F4-654B6426FB68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+H:/laba po cpp/CMakeFiles/lab2.dir
+H:/laba po cpp/CMakeFiles/ALL_BUILD.dir
+H:/laba po cpp/CMakeFiles/ZERO_CHECK.dir
+H:/laba po cpp/_deps/catch2-build/CMakeFiles/ALL_BUILD.dir
+H:/laba po cpp/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+H:/laba po cpp/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir

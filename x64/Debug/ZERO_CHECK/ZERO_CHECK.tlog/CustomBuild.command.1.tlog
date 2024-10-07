@@ -1,0 +1,10 @@
+^H:\LABA PO CPP\CMAKEFILES\136D7518D29F0F4B21CDAF043DBFB773\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SH:/laba po cpp" "-BH:/laba po cpp" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "H:/laba po cpp/lab2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

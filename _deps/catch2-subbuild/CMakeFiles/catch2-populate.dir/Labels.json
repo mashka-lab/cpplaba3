@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/1a7bffb83815367604f67f0a8364d734/catch2-populate.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/604ba780876c7c3d064e8cd608d17f3c/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-build.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-download.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-install.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-test.rule"
+		},
+		{
+			"file" : "H:/laba po cpp/_deps/catch2-subbuild/CMakeFiles/cf6d4a74526780f75125815a167e292f/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}
